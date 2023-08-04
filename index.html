@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project 10</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="media.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+    integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+    crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Krub:wght@700&family=Oswald:wght@700&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Krub&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+  <!-- navbar section -->
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <img src="navbar logo.png" alt="pic" id="nav_logo">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ">
+        <li class="nav-item active">
+          <a class="nav-link" id="margin1" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" id="margin2" href="#">ABOUT</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" id="margin3" href="#">COURSES</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" id="margin4" href="#">BLOG</a>
+        </li>
+      </ul>
+      <div class="navbar_last_div ml-auto">
+        <button type="button" class="btn btn-light" id="navbar_btn">SIGN IN</button>
+      </div>
+    </div>
+  </nav>
+  <!-- banner section -->
+  <div class="container-fluid" id="banner">
+    <div class="row">
+      <div class="col-sm-4 banner_col">
+        <h1 id="banner_head1">UI <span id="banner_dot">.</span></h1>
+        <div id="banner_first_col_box">
+          <h2 id="banner_head2">BEGINNER′s</h2>
+          <div id="banneer_float">
+            <div id="banner_square"></div>
+            <p id="banner_para1">become a <br>
+              pro-designer</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4 banner_col">
+        <img src="banner-img.png" alt="pic" id="banner_img">
+      </div>
+      <div class="col-sm-4 banner_col">
+        <div id="banner_last_container">
+          <div id="banner_last_col_box">
+            <p id="banner_para2">EDITION</p>
+            <p id="banner_para3">2022</p>
+          </div>
+        </div>
+        <h3 id="banner_head3">Start guide for beginner <br>
+          designers</h3>
+        <p id="banner_para4">Lorem ipsum dolor sit amet, consecte- <br>tur adipiscing elit, sed do eiusmod <br> tempor
+          incididunt ut labore .</p>
+        <button type="button" class="btn" id="banner_btn1">LET´S START</button>
+        <button type="button" class="btn" id="banner_btn2">READ MORE</button>
+      </div>
+    </div>
+  </div>
+  <!-- after banner section -->
+  <div class="container-fluid" id="after_banner">
+    <div class="row">
+      <div class="col-sm-12 col-md-4 after_banner_center_col">
+        <div class="after_banner_col_box">
+          <h2 class="after_banner_head1">+ <span class="banner_span" style="color: #ffffff;">150</span></h2>
+          <div class="after_banner_inner">
+            <p id="after_banner_para1">
+              HAPPY <br>
+              <span style="color: #fff;">STUDENTS</span>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4 after_banner_center_col">
+        <div class="after_banner_col_box">
+          <h2 class="after_banner_head1">+ <span class="banner_span" style="color: #ffffff;">50</span></h2>
+          <div class="after_banner_inner">
+            <p id="after_banner_para1">
+              CERTIFIED<br>
+              <span style="color: #fff;">COURSES</span>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4 after_banner_center_col">
+        <div class="after_banner_col_box">
+          <h2 class="after_banner_head1">+ <span class="banner_span" style="color: #ffffff;">1000</span></h2>
+          <div class="after_banner_inner">
+            <p id="after_banner_para1">
+              AWARD<br>
+              <span style="color: #fff;">RECEIVED</span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- challenges section -->
+  <div class="container-fluid" id="challenges">
+    <div class="row">
+      <div class="col-sm-12 col-md-2" id="challenges_col1">
+        <div class="flex_box">
+          <p id="challenges_para1">discover your skills</p>
+          <div id="challenges_square"></div>
+        </div>
+        <h3 id="challenges_head4">explore</h3>
+      </div>
+      <div class="col-sm-12 col-md-8" id="challenges_col">
+        <h1 id="challenges_head1">Accept</h1>
+        <h1 id="challenges_head2">new</h1>
+        <h1 id="challenges_head3">challenges</h1>
+        <img src="Arrow.png" alt="pic" id="arrow">
+      </div>
+      <div class="col-sm-12 col-md-2" id="challenge_col3">
+        <div class="flex_box1">
+          <div id="challenges_square2"></div>
+          <p id="challenges_para2">discover your skills</p>
+        </div>
+        <h3 id="challenges_head5">about</h3>
+      </div>
+    </div>
+  </div>
+  <!-- course section -->
+  <div class="container-fluid" id="your_course">
+    <div class="row">
+      <div class="col-sm-6">
+        <h1 id="your_course_head1">FIND <span id="your_course_span1">Your Course</span></h1>
+      </div>
+      <div class="col-sm-6" id="your_course_col2">
+        <div id="your_course_box">
+          <div id="your_course_square"></div>
+          <p id="your_course_para1">EDITION <br><span id="year">2022</span></p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-md-3 d-flex" id="your_course_col3">
+        <div class="your_course_card">
+          <p class="number_box">.01</p>
+          <div class="text_box text-center">
+            <h3 class="your_course_head2">COURSE 01</h3>
+            <hr class="horizontal">
+            <p class="your_course_para2">Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, <br> sed do
+              eiusmod tempor incidi- <br>dunt ut labore et.</p>
+            <button class="your_course_btn">READ MORE</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-3 d-flex" id="your_course_col4">
+        <div class="your_course_card">
+          <p class="number_box">.01</p>
+          <div class="text_box text-center">
+            <h3 class="your_course_head2">COURSE 01</h3>
+            <hr class="horizontal">
+            <p class="your_course_para2">Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, <br> sed do
+              eiusmod tempor incidi- <br>dunt ut labore et.</p>
+            <button class="your_course_btn">READ MORE</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-3 d-flex" id="your_course_col5">
+        <div class="your_course_card">
+          <p class="number_box">.01</p>
+          <div class="text_box text-center">
+            <h3 class="your_course_head2">COURSE 01</h3>
+            <hr class="horizontal">
+            <p class="your_course_para2">Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, <br> sed do
+              eiusmod tempor incidi- <br>dunt ut labore et.</p>
+            <button class="your_course_btn">READ MORE</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-3 d-flex" id="your_course_col6">
+        <div class="your_course_card">
+          <p class="number_box">.01</p>
+          <div class="text_box text-center">
+            <h3 class="your_course_head2">COURSE 01</h3>
+            <hr class="horizontal">
+            <p class="your_course_para2">Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, <br> sed do
+              eiusmod tempor incidi- <br>dunt ut labore et.</p>
+            <button class="your_course_btn">READ MORE</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 text-center d-flex justify-content-center">
+        <p id="your_course_para3">MORE COURSE</p>
+        <img src="course Arrow.png" alt="pic" id="course_arrow">
+      </div>
+    </div>
+  </div>
+  <!-- about us section -->
+  <section id="about">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-6">
+          <h2 id="about_head1">About <span id="about_span1">us.</span></h2>
+          <p id="about_para1">Lorem ipsum dolor sit amet, consectetur adipiscing <br> elit, sed do eiusmod tempor
+            incididunt ut labore et <br>dolore magna aliqua Quis ipsum suspendisse.</p>
+          <div id="about_main_box" class="d-flex">
+            <div id="about_first_box">
+              <p class="about_para2"><img src="about square.png" alt="pic"> Lorem ipsum dolor.</p>
+              <p class="about_para3"><img src="about square.png" alt="pic"> Lorem ipsum dolor.</p>
+            </div>
+            <div id="about_second_box">
+              <p class="about_para2"><img src="about square.png" alt="pic"> Lorem ipsum dolor.</p>
+              <p class="about_para3"><img src="about square.png" alt="pic"> Lorem ipsum dolor.</p>
+            </div>
+          </div>
+          <button id="about_btn">READ MORE</button>
+        </div>
+        <div class="col-sm-12 col-md-6 d-flex justify-content-end" id="about_us_col2">
+          <div id="about_main_box2">
+            <img id="about_main_circle" src="about main circle.png" alt="pic">
+            <img id="about_main_img" src="about main img.png" alt="pic">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- why us section -->
+  <div class="container-fluid" id="why_us">
+    <div class="row">
+      <div class="col-sm-12 col-md-6" id="why_us_col1">
+        <div id="why_us_img_box">
+          <img id="why_us_img1" src="why us main img.png" alt="pic">
+          <img id="why_us_img2" src="why us main circle.png" alt="pic">
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-6" id="why_us_col2">
+        <div id="why_us_box2">
+          <h2 id="why_us_head1">Why <span id="why_us_span1">us.</span></h2>
+          <p id="why_us_para1">Lorem ipsum dolor sit amet, consectetur adipiscing <br> elit, sed do eiusmod tempor
+            incididunt ut labore et <br> dolore magna aliqua Quis ipsum suspendisse con- <br>sectetur adipiscing elit,
+            sed do eiusmod tempor in- <br>cididunt ut labore et dolore magna aliqua Quis <br> ipsum suspendisse.</p>
+          <button id="why_us_btn">READ MORE</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- start section -->
+  <div class="container-fluid" id="start">
+    <div class="row">
+      <div class="col-sm-12 col-md-2" id="start_col1">
+        <img src="start Arrow 1.png" alt="pic" id="start_arrow1">
+        <p id="start_para1"> <span id="start_para1_span">READY TO</span> GET STARTED</p>
+      </div>
+      <div class="col-sm-12 col-md-8 d-flex justify-content-center">
+        <div id="start_img_box">
+          <h1 id="start_text">START <span id="start_span1">NOW</span></h1>
+          <img src="start play img.png" alt="pic" id="start_play">
+          <img src="start img.png" alt="pic" id="start_img">
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-2" id="start_col2">
+        <p id="start_para2"> <span id="start_para2_span">READY TO</span> GET STARTED</p>
+        <img src="start Arrow 2.png" alt="pic" id="start_arrow2">
+      </div>
+    </div>
+  </div>
+  <!-- user section -->
+  <section id="user">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 text-center">
+          <h1 id="user_head1">WHAT</h1>
+          <p id="user_para1">users think.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 col-md-4 user_col">
+          <div class="user_box text-center" id="user_box1">
+            <img src="user img1.png" alt="pic" class="user_img">
+            <p class="user_para2">Laura smith</p>
+            <div class="star">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star" id="fifth_star"></i>
+            </div>
+            <div class="user_text_box">
+              <img src="Quote 1.png" alt="pic" class="quote1">
+              <span class="user_text_span">
+                Lorem ipsum dolor sit amet, con- <br>sectetur adipiscing elit, sed do <br> eiusmod tempor incididunt ut
+                <br> labore et dolore magna aliqua .
+              </span>
+              <img src="Quote 2.png" alt="pic" class="quote2">
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-4 user_col d-flex justify-content-center">
+          <div class="user_box text-center" id="user_box2">
+            <img src="user img1.png" alt="pic" class="user_img">
+            <p class="user_para2">Laura smith</p>
+            <div class="star">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star" id="fifth_star"></i>
+            </div>
+            <div class="user_text_box">
+              <img src="Quote 1.png" alt="pic" class="quote1">
+              <span class="user_text_span">
+                Lorem ipsum dolor sit amet, con- <br>sectetur adipiscing elit, sed do <br> eiusmod tempor incididunt ut
+                <br> labore et dolore magna aliqua .
+              </span>
+              <img src="Quote 2.png" alt="pic" class="quote2">
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-4 user_col d-flex" id="user_col3">
+          <div class="user_box text-center" id="user_box3">
+            <img src="user img1.png" alt="pic" class="user_img">
+            <p class="user_para2">Laura smith</p>
+            <div class="star">
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star"></i>
+              <i class="fa-solid fa-star" id="fifth_star"></i>
+            </div>
+            <div class="user_text_box">
+              <img src="Quote 1.png" alt="pic" class="quote1">
+              <span class="user_text_span">
+                Lorem ipsum dolor sit amet, con- <br>sectetur adipiscing elit, sed do <br> eiusmod tempor incididunt ut
+                <br> labore et dolore magna aliqua .
+              </span>
+              <img src="Quote 2.png" alt="pic" class="quote2">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- subscribe section -->
+  <div class="container-fluid" id="subscribe">
+    <div class="row">
+      <div class="col-sm-12 col-md-6" id="subscribe_col">
+        <img src="subscribe img.png" alt="pic" id="subscribe_img">
+      </div>
+      <div class="col-sm-12 col-md-6">
+        <div id="subscribe_text_box" class="text-center">
+          <h2 id="subscribe_head1">Subscribe</h2>
+          <h3 id="subscribe_head2">to our newsletter</h3>
+          <p id="subscribe_para1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br> sed do eiusmod tempor
+            incididunt .</p>
+          <input id="input1" type="text" placeholder="NAME">
+          <input type="email" placeholder="MAIL" id="input2">
+          <input type="text" placeholder="MESSAGE" id="input3">
+          <button id="subscribe_btn">send message</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- footer section -->
+  <div class="container-fluid" id="footer">
+    <div class="row">
+      <div class="col-sm-12 col-md-3">
+        <h3 class="footer_head1">About</h3>
+        <a href="" class="link">
+          <p>History</p>
+        </a>
+        <a href="" class="link">
+          <p>Our Team</p>
+        </a>
+        <a href="" class="link">
+          <p>Mission Statement</p>
+        </a>
+        <a href="" class="link">
+          <p>Term&Condition</p>
+        </a>
+        <a href="" class="link">
+          <p>Privacy Policy</p>
+        </a>
+      </div>
+      <div class="col-sm-12 col-md-3">
+        <h3 class="footer_head2">What we do</h3>
+        <a href="" class="link">
+          <p>News and stories</p>
+        </a>
+        <a href="" class="link">
+          <p>Publications</p>
+        </a>
+        <a href="" class="link">
+          <p>Take action</p>
+        </a>
+        <a href="" class="link">
+          <p>Recomendations</p>
+        </a>
+        <a href="" class="link">
+          <p>Help</p>
+        </a>
+      </div>
+      <div class="col-sm-12 col-md-6" id="footer_last_col">
+        <h3 id="footer_head3">Sign Up To Receive</h3>
+        <div id="footer_box">
+          <div id="underline"></div>
+          <h3 id="footer_head4">Our Newsletter</h3>
+        </div>
+       <input type="text">
+        <div id="footer_last_box">
+          <span id="footer_span2"> Follow us!</span>
+          <i class="fa-brands fa-facebook-f"></i>
+          <i class="fa-brands fa-instagram"></i>
+          <i class="fa-brands fa-youtube"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

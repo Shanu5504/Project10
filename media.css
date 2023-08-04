@@ -1,0 +1,1314 @@
+@media (max-width: 575.98px) {
+
+    /* navbar section */
+    .navbar {
+        height: auto;
+    }
+
+    .navbar-toggler {
+        background-color: #fff !important;
+    }
+
+    #nav_logo {
+        padding-left: 0;
+    }
+
+    #margin1 {
+        margin-left: 20px;
+    }
+
+    #margin2 {
+        margin-left: 20px;
+    }
+
+    #margin3 {
+        margin-left: 20px;
+    }
+
+    #margin4 {
+        margin-left: 20px;
+    }
+
+    /* banner section */
+    #banner {
+        height: auto;
+    }
+
+    #banner_img {
+        margin-left: 0;
+        display: block;
+        margin: auto;
+        height: 346px;
+    }
+
+    #banneer_float {
+        margin-left: 64px;
+    }
+
+    #banner_first_col_box {
+        width: 280px;
+    }
+
+    #banner_head1 {
+        padding-top: 14px;
+    }
+
+    #banner_head3 {
+        padding-left: 20px;
+    }
+
+    #banner_para4 {
+        padding-left: 20px;
+    }
+
+    #banner_btn1 {
+        display: block;
+        margin: auto;
+    }
+
+    #banner_btn2 {
+        display: block;
+        margin: auto;
+        margin-top: 20px;
+    }
+
+    /* after banner section */
+    #after_banner {
+        height: auto;
+    }
+
+    .after_banner_col_box {
+        padding-left: 0;
+    }
+
+    .after_banner_col_box {
+        display: block;
+        margin: auto;
+        width: 141px;
+    }
+
+    /* challenges section */
+    #challenges {
+        height: auto;
+    }
+
+    #challenges_col {
+        background-size: 13% 7%, 13% 7%, 100% 27%;
+        background-position: 12% 34%, 88% 35%, center 30%;
+    }
+
+    #challenges_head1 {
+        font-size: 30px;
+    }
+
+    #challenges_head2 {
+        font-size: 30px;
+    }
+
+    #challenges_head3 {
+        font-size: 30px;
+    }
+
+    #challenges_head4 {
+        padding-top: 0;
+        margin-top: -200px;
+    }
+
+    #challenges_square2 {
+        margin-top: -26px;
+        margin-left: 10px;
+    }
+
+    #challenges_head5 {
+        padding-top: 69px;
+    }
+
+    #challenges_para1 {
+        margin-left: 0;
+    }
+
+    #challenges_square {
+        margin-left: 6px;
+    }
+
+    #arrow {
+        padding-top: 76px;
+    }
+
+    #challenges_para2 {
+        margin-left: 5px;
+        padding-left: 0;
+    }
+
+    #challenges_head5 {
+        margin-top: -134px;
+        margin-left: 40px;
+    }
+
+    /* course section */
+    #your_course {
+        height: auto;
+    }
+
+    /* courses section */
+    #course_square {
+        margin-left: 0;
+        margin-top: 59px;
+    }
+
+    #course_para1 {
+        padding-left: 20px;
+    }
+
+    #course_head2 {
+        padding-left: 0;
+    }
+
+    #course_center1 {
+        justify-content: center;
+    }
+
+    .course_center2 {
+        justify-content: center;
+    }
+
+    #course_box2 {
+        margin-left: 0;
+    }
+
+    #course_box3 {
+        margin-left: 0;
+    }
+
+    .course_box {
+        margin-bottom: 30px;
+    }
+
+    /* about us section */
+    #about {
+        height: auto;
+    }
+
+    #about_us_col2 {
+        justify-content: center !important;
+    }
+
+    #about_main_circle {
+        top: 11%;
+        left: 8%;
+        width: 204px;
+    }
+
+    #about_main_img {
+        width: 244px;
+    }
+
+    #about_para1 {
+        padding-top: 14px
+    }
+
+    #about_first_box {
+        margin-top: 35px;
+    }
+
+    #about_second_box {
+        margin-top: 35px;
+    }
+
+    #about_btn {
+        width: 116px;
+        height: 45px;
+    }
+
+    #about_main_box2 {
+        max-width: 431px;
+        height: 384px;
+        margin-top: 32px;
+    }
+
+    /* why us section */
+    #why_us {
+        height: auto;
+    }
+
+    #why_us_img_box {
+        margin-left: 0;
+        width: 257px;
+        height: 350px;
+        margin-top: 132px;
+        background-position: 92% 6%, 10% 77%, 101% -77%;
+    }
+
+    #why_us_img1 {
+        margin-left: 50px;
+        width: 210px;
+    }
+
+    #why_us_img2 {
+        left: 36px;
+        width: 200px;
+        margin-top: 46px;
+    }
+
+    #why_us_col1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #why_us_head1 {
+        padding-left: 0;
+        padding-top: 274px;
+    }
+
+    #why_us_para1 {
+        padding-left: 0;
+    }
+
+    #why_us_btn {
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+
+    #why_us_head2 {
+        display: none;
+    }
+
+    /* start section */
+    #start {
+        height: auto;
+    }
+
+    #start_play {
+        width: 50px;
+        top: 65px;
+        left: 106px;
+    }
+
+    #start_text {
+        font-size: 23.33px;
+        top: 34%;
+        left: 7%;
+    }
+
+    #start_span1 {
+        margin-left: 107px;
+    }
+
+    #start_img {
+        height: 179px;
+        width: 269px;
+    }
+
+    #start_col1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #start_arrow1 {
+        margin-top: 69px;
+    }
+
+    #start_img_box {
+        width: 269px;
+        margin-top: 42px;
+        height: 227px;
+    }
+
+    #start_para1 {
+        margin-left: 0;
+    }
+
+    #start_para2 {
+        margin-top: 15px;
+        margin-left: 0;
+    }
+
+    #start_col2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* user section */
+    #user {
+        height: auto;
+    }
+
+    #user_head1 {
+        font-size: 74px;
+    }
+
+    .user_box {
+        width: 249px;
+        height: 397px;
+        margin-bottom: 30px;
+    }
+
+    .user_col {
+        display: flex;
+        justify-content: center;
+    }
+
+    #user_col3 {
+        justify-content: center;
+    }
+
+    /* subscribe section */
+    #subscribe {
+        height: auto;
+    }
+
+    #subscribe_img {
+        padding-top: 122px;
+        margin-left: 0;
+        margin: auto;
+        display: block;
+        width: 100%;
+    }
+
+    #subscribe_text_box {
+        margin-top: 87px;
+        width: 252px;
+        margin: auto;
+    }
+
+    #input1,
+    #input2,
+    #input3 {
+        width: 250px;
+    }
+
+    #subscribe_btn {
+        margin-bottom: 30px;
+    }
+
+    /* footer section */
+    #footer {
+        height: auto;
+    }
+
+    .footer_head1 {
+        padding-top: 78px;
+    }
+
+    .footer_head2 {
+        padding-top: 62px;
+    }
+
+    #footer_last_col {
+        text-align: unset;
+    }
+
+    #box {
+        margin-left: 0;
+        width: 250px;
+    }
+
+    #footer_head4 {
+        font-size: 19.33px;
+    }
+
+    #footer_head3 {
+        padding-top: 42px;
+    }
+
+    #footer_last_col input {
+        width: 248px;
+        margin-right: 0;
+    }
+
+    #footer_last_box {
+        height: 90px;
+    }
+
+    .fa-facebook-f {
+        color: #8c6eca;
+        font-size: 20px;
+        width: 33px;
+        height: 33px;
+        border-radius: 50%;
+        background-color: #fff;
+        padding-top: 7px;
+        padding-left: 7px;
+        margin-right: 0 !important;
+    }
+
+    .fa-instagram {
+        color: #8c6eca;
+        font-size: 20px;
+        width: 33px;
+        height: 33px;
+        border-radius: 50%;
+        background-color: #fff;
+        padding-top: 7px;
+        padding-left: 7px;
+        margin-right: 0 !important;
+    }
+
+    .fa-youtube {
+        color: #8c6eca;
+        font-size: 20px;
+        width: 33px;
+        height: 33px;
+        border-radius: 50%;
+        background-color: #fff;
+        padding-top: 7px;
+        padding-left: 7px;
+        margin-right: 0 !important;
+    }
+
+    #footer_span2 {
+        font-size: 21px;
+        margin-right: 40px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* navbar section */
+    .navbar {
+        height: auto;
+    }
+
+    .navbar-toggler {
+        background-color: #fff !important;
+    }
+
+    #nav_logo {
+        padding-left: 0;
+    }
+
+    #margin1 {
+        margin-left: 20px;
+    }
+
+    #margin2 {
+        margin-left: 20px;
+    }
+
+    #margin3 {
+        margin-left: 20px;
+    }
+
+    #margin4 {
+        margin-left: 20px;
+    }
+
+    /* banner section */
+    #banner {
+        height: auto;
+    }
+
+    #banner_img {
+        margin-left: 0;
+        display: block;
+        margin: auto;
+        height: 346px;
+    }
+
+    #banneer_float {
+        margin-left: 64px;
+    }
+
+    #banner_first_col_box {
+        width: 280px;
+    }
+
+    #banner_head1 {
+        padding-top: 14px;
+        padding-left: 39px;
+    }
+
+    #banner_head3 {
+        padding-left: 20px;
+    }
+
+    #banner_para4 {
+        padding-left: 20px;
+    }
+
+    #banner_btn1 {
+        display: block;
+        margin: auto;
+    }
+
+    #banner_btn2 {
+        display: block;
+        margin: auto;
+        margin-top: 20px;
+    }
+
+    /* after banner section */
+    #after_banner {
+        height: auto;
+    }
+
+    .after_banner_col_box {
+        padding-left: 0;
+    }
+
+    .after_banner_col_box {
+        display: block;
+        margin: auto;
+        width: 141px;
+    }
+
+    /* challenges section */
+    #challenges {
+        height: auto;
+    }
+
+    #challenges_col {
+        background-size: 13% 7%, 13% 7%, 100% 27%;
+        background-position: 12% 34%, 88% 35%, center 30%;
+    }
+
+    #challenges_head1 {
+        font-size: 30px;
+    }
+
+    #challenges_head2 {
+        font-size: 30px;
+    }
+
+    #challenges_head3 {
+        font-size: 30px;
+    }
+
+    #challenges_head4 {
+        padding-top: 0;
+        margin-top: -200px;
+    }
+
+    #challenges_square2 {
+        margin-top: -26px;
+        margin-left: 10px;
+    }
+
+    #challenges_head5 {
+        padding-top: 69px;
+    }
+
+    #challenges_para1 {
+        margin-left: 0;
+    }
+
+    #challenges_square {
+        margin-left: 6px;
+    }
+
+    #arrow {
+        padding-top: 76px;
+    }
+
+    #challenges_para2 {
+        margin-left: 5px;
+        padding-left: 0;
+    }
+
+    #challenges_head5 {
+        margin-top: -134px;
+        margin-left: 40px;
+    }
+
+    /* course section */
+    #your_course {
+        height: auto;
+    }
+
+    /* courses section */
+    #course_square {
+        margin-left: 0;
+        margin-top: 59px;
+    }
+
+    #course_para1 {
+        padding-left: 20px;
+    }
+
+    #course_head2 {
+        padding-left: 0;
+    }
+
+    #course_center1 {
+        justify-content: center;
+    }
+
+    .course_center2 {
+        justify-content: center;
+    }
+
+    #course_box2 {
+        margin-left: 0;
+    }
+
+    #course_box3 {
+        margin-left: 0;
+    }
+
+    .course_box {
+        margin-bottom: 30px;
+    }
+
+    /* about us section */
+    #about {
+        height: auto;
+    }
+
+    #about_us_col2 {
+        justify-content: center !important;
+    }
+
+    #about_main_circle {
+        top: 11%;
+        left: 8%;
+        width: 204px;
+    }
+
+    #about_main_img {
+        width: 244px;
+    }
+
+    #about_para1 {
+        padding-top: 14px
+    }
+
+    #about_first_box {
+        margin-top: 35px;
+    }
+
+    #about_second_box {
+        margin-top: 35px;
+    }
+
+    #about_btn {
+        width: 116px;
+        height: 45px;
+    }
+
+    #about_main_box2 {
+        max-width: 431px;
+        height: 384px;
+        margin-top: 32px;
+    }
+
+    /* why us section */
+    #why_us {
+        height: auto;
+    }
+
+    #why_us_img_box {
+        margin-left: 0;
+        width: 257px;
+        height: 350px;
+        margin-top: 132px;
+        background-position: 92% 6%, 10% 77%, 101% -77%;
+    }
+
+    #why_us_img1 {
+        margin-left: 50px;
+        width: 210px;
+    }
+
+    #why_us_img2 {
+        left: 36px;
+        width: 200px;
+        margin-top: 46px;
+    }
+
+    #why_us_col1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #why_us_head1 {
+        padding-left: 0;
+        padding-top: 274px;
+    }
+
+    #why_us_para1 {
+        padding-left: 0;
+    }
+
+    #why_us_btn {
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+
+    #why_us_head2 {
+        display: none;
+    }
+
+    /* start section */
+    #start {
+        height: auto;
+    }
+
+    #start_play {
+        width: 50px;
+        top: 65px;
+        left: 106px;
+    }
+
+    #start_text {
+        font-size: 23.33px;
+        top: 34%;
+        left: 7%;
+    }
+
+    #start_span1 {
+        margin-left: 107px;
+    }
+
+    #start_img {
+        height: 179px;
+        width: 269px;
+    }
+
+    #start_col1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #start_arrow1 {
+        margin-top: 69px;
+    }
+
+    #start_img_box {
+        width: 269px;
+        margin-top: 42px;
+        height: 227px;
+    }
+
+    #start_para1 {
+        margin-left: 0;
+    }
+
+    #start_para2 {
+        margin-top: 15px;
+        margin-left: 0;
+    }
+
+    #start_col2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* user section */
+    #user {
+        height: auto;
+    }
+
+    #user_head1 {
+        font-size: 74px;
+    }
+
+    .user_box {
+        width: 249px;
+        height: 397px;
+        margin-bottom: 30px;
+    }
+
+    .user_col {
+        display: flex;
+        justify-content: center;
+    }
+
+    #user_col3 {
+        justify-content: center;
+    }
+
+    /* subscribe section */
+    #subscribe {
+        height: auto;
+    }
+
+    #subscribe_img {
+        padding-top: 122px;
+        margin-left: 0;
+        margin: auto;
+        display: block;
+        width: 100%;
+    }
+
+    #subscribe_text_box {
+        margin-top: 87px;
+        width: 252px;
+        margin: auto;
+    }
+
+    #input1,
+    #input2,
+    #input3 {
+        width: 250px;
+    }
+
+    #subscribe_btn {
+        margin-bottom: 30px;
+    }
+
+    /* footer section */
+    #footer {
+        height: auto;
+    }
+
+    .footer_head1 {
+        padding-top: 78px;
+    }
+
+    .footer_head2 {
+        padding-top: 62px;
+    }
+
+    #footer_last_col {
+        text-align: unset;
+    }
+
+    #box {
+        margin-left: 0;
+        width: 250px;
+    }
+
+    #footer_head4 {
+        font-size: 19.33px;
+    }
+
+    #footer_head3 {
+        padding-top: 42px;
+    }
+
+    #footer_last_col input {
+        width: 248px;
+        margin-right: 0;
+    }
+
+    #footer_last_box {
+        height: 90px;
+    }
+
+    .fa-facebook-f {
+        color: #8c6eca;
+        font-size: 20px;
+        width: 33px;
+        height: 33px;
+        border-radius: 50%;
+        background-color: #fff;
+        padding-top: 7px;
+        padding-left: 7px;
+        margin-right: 0 !important;
+    }
+
+    .fa-instagram {
+        color: #8c6eca;
+        font-size: 20px;
+        width: 33px;
+        height: 33px;
+        border-radius: 50%;
+        background-color: #fff;
+        padding-top: 7px;
+        padding-left: 7px;
+        margin-right: 0 !important;
+    }
+
+    .fa-youtube {
+        color: #8c6eca;
+        font-size: 20px;
+        width: 33px;
+        height: 33px;
+        border-radius: 50%;
+        background-color: #fff;
+        padding-top: 7px;
+        padding-left: 7px;
+        margin-right: 0 !important;
+    }
+
+    #footer_span2 {
+        font-size: 21px;
+        margin-right: 40px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  
+
+    .navbar {
+        height: auto;
+    }
+
+    .navbar-toggler {
+        background-color: #fff !important;
+    }
+
+    #nav_logo {
+        padding-left: 0;
+    }
+
+    #banner {
+        height: 578px;
+    }
+
+    #banner_img {
+        margin-left: 15px;
+        width: 255px;
+    }
+
+    #margin1 {
+        margin-left: 20px;
+    }
+
+    #margin2 {
+        margin-left: 20px;
+    }
+
+    #margin3 {
+        margin-left: 20px;
+    }
+
+    #margin4 {
+        margin-left: 20px;
+    }
+
+    #start_img {
+        width: 628px;
+        height: 386px;
+    }
+
+    #input1 {
+        width: 370px;
+    }
+
+    #input2 {
+        width: 370px;
+    }
+
+    #input3 {
+        width: 370px;
+    }
+
+    #footer_last_col input {
+        width: 382px;
+    }
+
+    #subscribe_img {
+        width: 525px;
+        padding-top: 383px;
+    }
+
+    #subscribe_head2 {
+        font-size: 31.2px;
+    }
+
+    .after_banner_col_box {
+        padding-left: 0;
+    }
+
+    .banner_span {
+        font-size: 32px;
+    }
+
+    .after_banner_head1{
+        line-height: 0.6;
+    }
+
+    #challenges_head5 {
+        font-size: 38px;
+    }
+
+    #challenges_head1 {
+        font-size: 68px;
+        padding-top: 137px;
+    }
+
+    #challenges_head2 {
+        font-size: 68px;
+    }
+
+    #challenges_head3 {
+        font-size: 68px;
+    }
+
+    #challenges_col {
+        background-size: 10% 10%, 10% 10%, 90% 42%;
+        background-position: 7% 29%, 98% 50%, center 30%;
+    }
+
+    #challenges_para2 {
+        padding-left: 0;
+    }
+
+    #challenges_square2 {
+        margin-left: 55px;
+    }
+
+    .your_course_btn {
+        margin-top: 15px;
+    }
+
+    #about_main_box2 {
+        max-width: 437px;
+        height: 535px;
+    }
+
+    #why_us_img_box {
+        margin-left: -80px;
+    }
+
+        #start_play {
+            top: 139px;
+            width: 81px;
+            left: 290px;
+        }
+ 
+    #start_span1 {
+        margin-left: 130px;
+    }
+    #start_text {
+        font-size: 74.33px;
+        top: 19%;
+    }
+    #start_para1 {
+        margin-left: -2px;
+    }
+    #start_arrow1 {
+        margin-top: 259px;
+    }
+    #start_para2 {
+        margin-top: 372px;
+        margin-left: 36px;
+    }
+    #start_img_box {
+        width: 629px;
+        height: 398px;
+    }
+    #start {
+        height: 661px;
+    }
+
+    #user {
+        height: 820px;
+    }
+    #subscribe_text_box {
+        width: 359px;
+    }
+
+    #input1 {
+        width: 370px;
+        height: 45px;
+        margin-top: 20px;
+    }
+    #subscribe_btn {
+        margin-top: 45px;
+    }
+    #subscribe {
+        height: 970px;
+    }
+    #footer_head3{
+        margin-right: 0;
+    }
+    #footer_last_col input{
+        width: 290px;
+        margin-right: 0;
+    }
+    .fa-facebook-f{
+        margin-right: 0;
+    }
+    .fa-instagram{
+        margin-right: 0;
+    }
+    .fa-youtube {
+        margin-right: 0;
+    }
+    #footer_span2{
+        margin-right: 0;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    #banner {
+        height: 578px;
+    }
+
+    #banner_img {
+        margin-left: 15px;
+        width: 255px;
+    }
+
+    #margin1 {
+        margin-left: 20px;
+    }
+
+    #margin2 {
+        margin-left: 20px;
+    }
+
+    #margin3 {
+        margin-left: 20px;
+    }
+
+    #margin4 {
+        margin-left: 20px;
+    }
+
+    #start_img {
+        width: 628px;
+        height: 386px;
+    }
+
+    #input1 {
+        width: 370px;
+    }
+
+    #input2 {
+        width: 370px;
+    }
+
+    #input3 {
+        width: 370px;
+    }
+
+    #footer_last_col input {
+        width: 382px;
+    }
+
+    #subscribe_img {
+        width: 525px;
+    }
+
+    #subscribe_head2 {
+        font-size: 31.2px;
+    }
+
+    .after_banner_col_box {
+        padding-left: 0;
+    }
+
+    .banner_span {
+        font-size: 32px;
+    }
+
+    .after_banner_head1{
+        line-height: 0.6;
+    }
+
+    #challenges_head5 {
+        font-size: 38px;
+    }
+
+    #challenges_head1 {
+        font-size: 68px;
+        padding-top: 137px;
+    }
+
+    #challenges_head2 {
+        font-size: 68px;
+    }
+
+    #challenges_head3 {
+        font-size: 68px;
+    }
+
+    #challenges_col {
+        background-size: 10% 10%, 10% 10%, 90% 42%;
+        background-position: 7% 29%, 98% 50%, center 30%;
+    }
+
+    #challenges_para2 {
+        padding-left: 0;
+    }
+
+    #challenges_square2 {
+        margin-left: 55px;
+    }
+
+    .your_course_btn {
+        margin-top: 15px;
+    }
+
+    #about_main_box2 {
+        max-width: 437px;
+        height: 535px;
+    }
+
+    #why_us_img_box {
+        margin-left: -80px;
+    }
+
+    #start_play {
+        top: 139px;
+        width: 81px;
+        left: 290px;
+    }
+ 
+    #start_span1 {
+        margin-left: 130px;
+    }
+    #start_text {
+        font-size: 74.33px;
+        top: 19%;
+    }
+    #start_para1 {
+        margin-left: 37px;
+    }
+    #start_arrow1 {
+        margin-top: 259px;
+    }
+    #start_para2 {
+        margin-top: 372px;
+        margin-left: 36px;
+    }
+    #start_img_box {
+        width: 629px;
+        height: 398px;
+    }
+    #start {
+        height: 661px;
+    }
+
+    #user {
+        height: 820px;
+    }
+    #subscribe_img {
+        padding-top: 378px;
+    }
+    #subscribe_text_box {
+        width: 359px;
+    }
+
+    #input1 {
+        width: 370px;
+        height: 45px;
+        margin-top: 20px;
+    }
+    #subscribe_btn {
+        margin-top: 45px;
+    }
+    #subscribe {
+        height: 970px;
+    }
+    #footer_head3{
+        margin-right: 0;
+    }
+    #footer_last_col input{
+        width: 290px;
+        margin-right: 0;
+    }
+    .fa-facebook-f{
+        margin-right: 0;
+    }
+    .fa-instagram{
+        margin-right: 0;
+    }
+    .fa-youtube {
+        margin-right: 0;
+    }
+    #footer_span2{
+        margin-right: 0;
+    }
+}
